@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python environment
+.env/
+venv/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Data files (je nach Wunsch, hier ausgeschlossen, da evtl. groß)
+data/*.csv
+data/*.pkl
+
+# MLflow Artifacts (lokal gespeichert)
+mlruns/
+
+# Logs
+*.log
+
+# Mac OS
+.DS_Store
+
+# Python test cache
+.pytest_cache/
+
+# Pipenv
+Pipfile.lock
+
+# Jupyter Notebook output (optional)
+*.nbconvert.ipynb
