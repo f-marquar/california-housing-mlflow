@@ -16,7 +16,7 @@ env/
 .vscode/
 
 # Data files (je nach Wunsch, hier ausgeschlossen, da evtl. groß)
-data/*.csv
+# data/*.csv # Dataset mit <2MB 
 data/*.pkl
 
 # MLflow Artifacts (lokal gespeichert)
