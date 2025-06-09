@@ -36,3 +36,6 @@ Pipfile.lock
 
 # Jupyter Notebook output (optional)
 *.nbconvert.ipynb
+
+# Catboost
+catboost_info/
